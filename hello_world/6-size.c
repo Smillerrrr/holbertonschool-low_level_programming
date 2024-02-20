@@ -3,11 +3,11 @@
 /**
  * main - Entry point
  *
- * Description: print size of various type
+ * Description: size
  * Return: 0
  **/
 
-int main(void)                                                                                                                      
+int main(void)
 {
 	printf("Size of a char: %lu byte(s)\n", sizeof(char));
 

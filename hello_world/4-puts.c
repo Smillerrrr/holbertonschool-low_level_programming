@@ -1,20 +1,16 @@
-/*
- * File: 4-puts.c
- * Auth: Smillerrrr <8806@holbertonstudent.com>
- */
-
 #include <stdio.h>
-
-/*
- * main - prints ""Programming is like building a multilingual
- *                puzzle, followed by a new line.
+/**
+ * main - Entry point
+ * strg : string
  *
- * Return: Always 0.
- */
+ * Return: 0
+ **/
 
 int main(void)
 {
-    puts("\"Programming is like building a multilingual puzzle\n");
+	char strg[] = "\"Programming is like building a multilingual puzzle";
 
-    return (0);
+	puts(strg);
+
+	return (0);
 }

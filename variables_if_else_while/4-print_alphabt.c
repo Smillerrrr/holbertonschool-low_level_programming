@@ -16,7 +16,7 @@ int main(void)
 		if (min != 'e' && min != 'q')
 			putchar(min);
 	}
-		putchar('\n')
+		putchar('\n');
 
 			return (0);
 }

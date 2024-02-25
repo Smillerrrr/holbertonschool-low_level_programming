@@ -3,7 +3,7 @@
  * print_last_digit - Affiche le dernier nombre
  *
  * @n: nombre entier et last dernier nombre
- * @last_digit: dernier nombre
+ * @n: dernier nombre
  * Return: valeur du dernier nombre
  **/
 

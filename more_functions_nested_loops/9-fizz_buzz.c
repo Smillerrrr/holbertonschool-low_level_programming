@@ -3,11 +3,10 @@
 /**
  * main - The FizzBuzz test
  *
- *@i: Write a program that prints the numbers from 1 to 100
  * Return: (0)
  **/
 
-int main(int i)
+int main(void)
 {
 	int i;
 
